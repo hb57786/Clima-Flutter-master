@@ -23,7 +23,7 @@ Com este aplicativo você poderá descobrir os dados meteorológicos em tempo re
 2. Clone este repositório
 
 ```
-git clone https://github.com/hb57786/bmi-calculator-flutter-master.git
+git clone https://github.com/hb57786/Clima-Flutter-master.git
 ```
 
 3. Baixe as dependências
